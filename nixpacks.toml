@@ -1,5 +1,5 @@
 [phases.install]
-cmds = ["pip install --no-cache-dir python-telegram-bot==21.9"]
+cmds = ["pip install --no-cache-dir aiogram==3.13.0"]
 
 [start]
 cmd = "python bowling_bot.py"
